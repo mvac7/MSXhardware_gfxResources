@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="V9938_Screen4_VRAMmap.svg"
+   inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\TMS9918_G1G2_memory_map.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"
+   viewBox="0 0 744.09448 1052.3622">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="246.78023"
+     inkscape:cy="743.74333"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1159"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         inkscape:export-ydpi="299.95969"
+         inkscape:export-xdpi="299.95969"
+         inkscape:export-filename="E:\_PROJECTS_finalizados\MSX_VRAMmap\V9938_VRAM_G3_300dpi.png"
+         y="82.362183"
+         x="110"
+         height="700"
+         width="250"
+         id="rect3737-9"
+         style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="299.95969"
+         inkscape:export-xdpi="299.95969"
+         inkscape:export-filename="E:\_PROJECTS_finalizados\MSX_VRAMmap\V9938_VRAM_G3_300dpi.png"
+         id="text4181-41"
+         y="99.862183"
+         x="120"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+           y="99.862183"
+           x="120"
+           id="tspan4183-6"
+           sodipodi:role="line">V9938 Screen 4 VRAM Map</tspan><tspan
+           id="tspan4521"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+           y="113.61218"
+           x="120"
+           sodipodi:role="line"> </tspan></text>
+      <g
+         id="g3922">
+        <rect
+           style="fill:#aaeeff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3003-7"
+           width="230"
+           height="17.5"
+           x="120"
+           y="362.36218"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="181.06354"
+           y="375.61218"
+           id="text4181-8-6-4"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-57-1-2"
+             x="181.06354"
+             y="375.61218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana">Map</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="123.71738"
+           y="372.36218"
+           id="text4181-2-4-0-8"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-5-5-9-0"
+             x="123.71738"
+             y="372.36218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080">1800h</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="322.25"
+           y="377.61218"
+           id="text4181-7-9-6-3-5"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-7-6-6-4-6"
+             x="322.25"
+             y="377.61218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000">300h</tspan></text>
+      </g>
+      <g
+         id="g4018">
+        <rect
+           style="fill:#c6afe9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3003-7-1"
+           width="230"
+           height="10"
+           x="120"
+           y="422.36218"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="180"
+           y="429.86218"
+           id="text4181-8-6-4-6"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-57-1-2-1"
+             x="180"
+             y="429.86218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana">Sprite Attributes (OAM)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="123.71738"
+           y="430.86218"
+           id="text4181-2-4-0-8-3"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-5-5-9-0-6"
+             x="123.71738"
+             y="430.86218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080">1E00h</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="328"
+           y="430.86218"
+           id="text4181-7-9-6-3-5-8"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-7-6-6-4-6-8"
+             x="328"
+             y="430.86218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000">80h</tspan></text>
+      </g>
+      <g
+         id="g3958">
+        <rect
+           style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3003-7-1-8"
+           width="230"
+           height="10"
+           x="120"
+           y="389.86218"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="180"
+           y="397.36218"
+           id="text4181-8-6-4-6-9"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-57-1-2-1-7"
+             x="180"
+             y="397.36218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana">Palette (MSX Basic 2.0 or +)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="123.52363"
+           y="398.36218"
+           id="text4181-2-4-0-8-3-4"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-5-5-9-0-6-7"
+             x="123.52363"
+             y="398.36218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080">1B80h</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="328"
+           y="398.36218"
+           id="text4181-7-9-6-3-5-8-6"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-7-6-6-4-6-8-7"
+             x="328"
+             y="398.36218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000">20h</tspan></text>
+      </g>
+      <g
+         id="g4002">
+        <rect
+           style="fill:#c6afe9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3003-7-1-8-7"
+           width="230"
+           height="12.5"
+           x="120"
+           y="409.86218"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="180"
+           y="418.78091"
+           id="text4181-8-6-4-6-3"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-57-1-2-1-4"
+             x="180"
+             y="418.78091"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana">Sprite Attribute Colors</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="123.71738"
+           y="419.53091"
+           id="text4181-2-4-0-8-3-8"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-5-5-9-0-6-9"
+             x="123.71738"
+             y="419.53091"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080">1C00h</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="322"
+           y="419.53091"
+           id="text4181-7-9-6-3-5-4"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-7-6-6-4-6-9"
+             x="322"
+             y="419.53091"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000">200h</tspan></text>
+      </g>
+      <g
+         id="g3936">
+        <rect
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3003-7-1-8-7-2-9"
+           width="230"
+           height="10"
+           x="120"
+           y="379.86218"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="123.63614"
+           y="388.11218"
+           id="text4181-2-4-0-8-3-8-1"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-5-5-9-0-6-9-7"
+             x="123.63614"
+             y="388.11218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080">1B00h</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="322"
+           y="388.11218"
+           id="text4181-7-9-6-3-5-4-4"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-7-6-6-4-6-9-0"
+             x="322"
+             y="388.11218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000"> 80h</tspan></text>
+      </g>
+      <g
+         id="g3972">
+        <rect
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3003-7-1-8-7-2"
+           width="230"
+           height="10"
+           x="120"
+           y="399.86218"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="123.71738"
+           y="408.36218"
+           id="text4181-2-4-0-8-3-8-1-6"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-5-5-9-0-6-9-7-0"
+             x="123.71738"
+             y="408.36218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080">1BA0h</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="328"
+           y="408.36218"
+           id="text4181-7-9-6-3-5-4-4-1"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-7-6-6-4-6-9-0-6"
+             x="328"
+             y="408.36218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000">60h</tspan></text>
+      </g>
+      <rect
+         inkscape:export-ydpi="299.95969"
+         inkscape:export-xdpi="299.95969"
+         inkscape:export-filename="E:\_PROJECTS_finalizados\MSX_VRAMmap\V9938_VRAM_G3_300dpi.png"
+         y="767.36218"
+         x="120"
+         height="10"
+         width="10"
+         id="rect4536-9"
+         style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.66666669;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="299.95969"
+         inkscape:export-xdpi="299.95969"
+         inkscape:export-filename="E:\_PROJECTS_finalizados\MSX_VRAMmap\V9938_VRAM_G3_300dpi.png"
+         id="text4181-8-6-6-8-8-8"
+         y="775.36218"
+         x="135"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+           y="775.36218"
+           x="135"
+           id="tspan4183-57-1-7-8-4-4"
+           sodipodi:role="line">Unused</tspan></text>
+      <text
+         inkscape:export-ydpi="299.95969"
+         inkscape:export-xdpi="299.95969"
+         inkscape:export-filename="E:\_PROJECTS_finalizados\MSX_VRAMmap\V9938_VRAM_G3_300dpi.png"
+         id="text4181-8-6-6-8-8-1-5"
+         y="119.22595"
+         x="124"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#333333"
+           y="119.22595"
+           x="124"
+           id="tspan4183-57-1-7-8-4-7-1"
+           sodipodi:role="line">Address      Name                                     Size</tspan></text>
+      <g
+         id="g4032">
+        <rect
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3003-7-1-8-7-2-2"
+           width="230"
+           height="10"
+           x="120"
+           y="432.36218"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="123.71738"
+           y="440.86218"
+           id="text4181-2-4-0-8-3-8-1-6-6"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-5-5-9-0-6-9-7-0-6"
+             x="123.71738"
+             y="440.86218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080">1E80h</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="322"
+           y="440.86218"
+           id="text4181-7-9-6-3-5-4-4-1-5"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"><tspan
+             sodipodi:role="line"
+             id="tspan4183-7-6-6-4-6-9-0-6-9"
+             x="322"
+             y="440.86218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000">180h</tspan></text>
+      </g>
+      <g
+         id="g4653">
+        <rect
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           y="122.36218"
+           x="120"
+           height="79.999374"
+           width="230.04184"
+           id="rect3003-1"
+           style="fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           id="text4181"
+           y="167.36218"
+           x="180"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="167.36218"
+             x="180"
+             id="tspan4183"
+             sodipodi:role="line">Tileset Pattern Bank0</tspan></text>
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-2"
+           y="131.86218"
+           x="123.44995"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080"
+             y="131.86218"
+             x="123.44995"
+             id="tspan4183-5"
+             sodipodi:role="line">0000h</tspan></text>
+        <text
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           id="text4181-7"
+           y="199.86218"
+           x="321.9751"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000"
+             y="199.86218"
+             x="321.9751"
+             id="tspan4183-7"
+             sodipodi:role="line">800h</tspan></text>
+      </g>
+      <g
+         id="g4637">
+        <rect
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           y="202.36281"
+           x="120"
+           height="79.999374"
+           width="230.04184"
+           id="rect3003-57"
+           style="fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-8"
+           y="247.36218"
+           x="180"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="247.36218"
+             x="180"
+             id="tspan4183-57"
+             sodipodi:role="line">Tileset Pattern Bank1</tspan></text>
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-2-4"
+           y="211.86218"
+           x="123.44995"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080"
+             y="211.86218"
+             x="123.44995"
+             id="tspan4183-5-5"
+             sodipodi:role="line">0800h</tspan></text>
+        <text
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           id="text4181-7-9"
+           y="279.86218"
+           x="321.9751"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000"
+             y="279.86218"
+             x="321.9751"
+             id="tspan4183-7-6"
+             sodipodi:role="line">800h</tspan></text>
+      </g>
+      <g
+         id="g4669">
+        <rect
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           y="282.36218"
+           x="120"
+           height="80"
+           width="229.93646"
+           id="rect3003"
+           style="fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-8-6"
+           y="327.36218"
+           x="180"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+             y="327.36218"
+             x="180"
+             id="tspan4183-57-1"
+             sodipodi:role="line">Tileset Pattern Bank2</tspan></text>
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-2-4-0"
+           y="291.86218"
+           x="123.39371"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080"
+             y="291.86218"
+             x="123.39371"
+             id="tspan4183-5-5-9"
+             sodipodi:role="line">1000h</tspan></text>
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-7-9-6-3"
+           y="359.86218"
+           x="321.98865"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000"
+             y="359.86218"
+             x="321.98865"
+             id="tspan4183-7-6-6-4"
+             sodipodi:role="line">800h</tspan></text>
+      </g>
+      <g
+         id="g4605">
+        <rect
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           y="442.36218"
+           x="120"
+           height="79.999374"
+           width="230.04137"
+           id="rect3003-5"
+           style="fill:#e9afaf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-4"
+           y="487.36218"
+           x="180"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+             y="487.36218"
+             x="180"
+             id="tspan4183-8"
+             sodipodi:role="line">Tileset Color Bank0</tspan></text>
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-2-8"
+           y="451.86249"
+           x="123.61847"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080"
+             y="451.86249"
+             x="123.61847"
+             id="tspan4183-5-6"
+             sodipodi:role="line">2000h</tspan></text>
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-7-9-2"
+           y="519.86218"
+           x="322"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000"
+             y="519.86218"
+             x="322"
+             id="tspan4183-7-6-0"
+             sodipodi:role="line">800h</tspan></text>
+      </g>
+      <g
+         id="g4589">
+        <rect
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           y="522.36218"
+           x="120"
+           height="79.999374"
+           width="230.04184"
+           id="rect3003-5-5"
+           style="fill:#e9afaf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.89462721;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-4-4"
+           y="567.36218"
+           x="180"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+             y="567.36218"
+             x="180"
+             id="tspan4183-8-7"
+             sodipodi:role="line">Tileset Color Bank1</tspan></text>
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-2-8-1"
+           y="531.86249"
+           x="123.42471"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080"
+             y="531.86249"
+             x="123.42471"
+             id="tspan4183-5-6-2"
+             sodipodi:role="line">2800h</tspan></text>
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-7-9-7"
+           y="599.86218"
+           x="321.9751"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000"
+             y="599.86218"
+             x="321.9751"
+             id="tspan4183-7-6-2"
+             sodipodi:role="line">800h</tspan></text>
+      </g>
+      <g
+         id="g4573">
+        <rect
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           y="602.36218"
+           x="120"
+           height="79.999374"
+           width="230.04184"
+           id="rect3003-5-6"
+           style="fill:#e9afaf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-4-7"
+           y="647.36218"
+           x="180"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+             y="647.36218"
+             x="180"
+             id="tspan4183-8-1"
+             sodipodi:role="line">Tileset Color Bank2</tspan></text>
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-2-8-5"
+           y="611.86249"
+           x="123.49152"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080"
+             y="611.86249"
+             x="123.49152"
+             id="tspan4183-5-6-7"
+             sodipodi:role="line">3000h</tspan></text>
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-7-9-5"
+           y="679.86218"
+           x="322.03137"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000"
+             y="679.86218"
+             x="322.03137"
+             id="tspan4183-7-6-08"
+             sodipodi:role="line">800h</tspan></text>
+      </g>
+      <g
+         id="g4564">
+        <rect
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           y="682.36218"
+           x="120"
+           height="79.999374"
+           width="230.10538"
+           id="rect3003-7-6"
+           style="fill:#c6afe9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-8-6-6"
+           y="727.36218"
+           x="180"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+             y="727.36218"
+             x="180"
+             id="tspan4183-57-1-7"
+             sodipodi:role="line">Sprite Patterns</tspan></text>
+        <text
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           id="text4181-2-4-0-5"
+           y="691.86218"
+           x="123.6113"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#000080"
+             y="691.86218"
+             x="123.6113"
+             id="tspan4183-5-5-9-07"
+             sodipodi:role="line">3800h</tspan></text>
+        <text
+           inkscape:export-filename="C:\Users\AlberTor\Documents\__MSX_screen2_memorymap\sc2map2_150dpi.png"
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           id="text4181-7-9-8"
+           y="759.86218"
+           x="322"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'MSX Font';-inkscape-font-specification:'MSX Font';fill:#800000"
+             y="759.86218"
+             x="322"
+             id="tspan4183-7-6-1"
+             sodipodi:role="line">800h</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
