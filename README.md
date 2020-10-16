@@ -22,7 +22,7 @@ My thanks to all those who share knowledge.
 ## Contents list:
 
 - MSX Architecture Diagram (v0.7.5)
-- MSX keyboard matrix - (OpenDocument and PDF)
+- MSX keyboard matrix - (OpenDocument and PDF) International plus the annexes for the numeric keyboard and Spanish.
 - MSX Keyboard template (v0.4) - You can use it to annotate the keyboard settings of your programs.
 - TMS9918A Screen 0 VRAM map - Mode 0 (T1) VRAM configuration on MSX computers.
 - TMS9918A Screen 1 VRAM map - Mode 1 (G1) VRAM configuration on MSX computers.
@@ -30,7 +30,6 @@ My thanks to all those who share knowledge.
 - TMS9918A Screen 3 VRAM map - Mode 3 (MC) VRAM configuration on MSX computers.
 - TMS9918A Color Palette
 - V9938 Screen 4 VRAM map - G3 VRAM configuration on MSX computers.
-- 
 
 
 
