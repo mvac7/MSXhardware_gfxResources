@@ -13,7 +13,7 @@ These graphic resources are for the MSX developer community and the retro scene.
 
 You can use them where you need it or to create new graphics.
 
-They have been made using the Inkscape software. https://inkscape.org/
+Some have been made using Inkscape software. https://inkscape.org/
 
 My thanks to all those who share knowledge.
 
@@ -22,6 +22,8 @@ My thanks to all those who share knowledge.
 ## Contents list:
 
 - MSX Architecture Diagram (v0.7.5)
+- MSX character set vertical (HTML and PDF)
+- MSX character set horizontal (HTML and PDF)
 - MSX keyboard matrix - (OpenDocument and PDF) International plus the annexes for the numeric keyboard and Spanish.
 - MSX Keyboard template (v0.4) - You can use it to annotate the keyboard settings of your programs.
 - TMS9918A Screen 0 VRAM map - Mode 0 (T1) VRAM configuration on MSX computers.

@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+    <title>MSX character set v0.1</title>
+    <meta name="author" content="MSXcommunity">
+    
+<style type="text/css">
+body {
+    font-family: helvetica, arial, verdana, sans-serif;
+    font-size: 90%;
+    line-height: 1.5em;
+    color: #000000;
+    background: #FFFFFF;
+    padding: 0px;
+    margin: 20px;
+}
+#chartable span {
+    background-color: #DDDDDD;
+    display:inline-block;
+    padding: 8px;
+    border-radius: 5px;
+    margin: 1px;
+    padding-bottom: 0px;
+}
+.char_value {
+    text-align: center;
+    font-size: 12px;
+    margin-bottom: 4px;
+    padding: 0px;
+}
+</style>
+</head>
+<body>
+<header>
+    <h1>MSX character set</h1>
+</header>
+<div>
+<div id="chartable" style="width:800px">
+<!-- dinamico con javascript -->
+<script type="text/javascript">
+    // https://developer.mozilla.org/es/docs/Web/JavaScript
+    const fill = (number, len) => "0".repeat(len - number.toString().length) + number.toString();
+    
+    for (let step = 0; step < 256; step++) {
+        document.write("<span><img src='msxchar"+fill(step,3)+".png'><div class='char_value'>" + step + "</div></span>");  
+    }
+</script>
+</div>
+
+</div>
+</body>
