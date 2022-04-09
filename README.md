@@ -22,8 +22,8 @@ My thanks to all those who share knowledge.
 ## Contents list:
 
 - MSX Architecture Diagram (v0.7.5)
-- MSX character set vertical (HTML and PDF)
-- MSX character set horizontal (HTML and PDF)
+- MSX International character set, vertical view (HTML and PDF)
+- MSX International character set, horizontal view (HTML and PDF)
 - MSX keyboard matrix - (OpenDocument and PDF) International plus the annexes for the numeric keyboard and Spanish.
 - MSX Keyboard template (v0.4) - You can use it to annotate the keyboard settings of your programs.
 - TMS9918A Screen 0 VRAM map - Mode 0 (T1) VRAM configuration on MSX computers.
@@ -42,3 +42,8 @@ My thanks to all those who share knowledge.
 - Portar MSX Tech Doc -> http://nocash.emubase.de/portar.htm
 - MSX Resource Center Wiki -> https://www.msx.org/wiki/
 - V9938 MSX-VIDEO Technical Data Book -> http://map.grauw.nl/resources/video/v9938/v9938.xhtml
+
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />All these works are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
