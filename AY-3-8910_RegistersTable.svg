@@ -7,10 +7,6 @@
    viewBox="0 0 201.64699 111.625"
    version="1.1"
    id="svg8"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="MSX_AY-3-8910_table.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -19,7 +15,6 @@
   <defs
      id="defs2">
     <meshgradient
-       inkscape:collect="always"
        id="meshgradient6507"
        gradientUnits="userSpaceOnUse"
        x="89.958336"
@@ -48,46 +43,6 @@
       </meshrow>
     </meshgradient>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="466.78571"
-     inkscape:cy="203.92857"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     showguides="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:showpageshadow="2"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4518"
-       originx="-4.9755174"
-       originy="-4.9807293"
-       spacingy="1"
-       spacingx="1"
-       units="mm"
-       visible="false" />
-    <inkscape:page
-       x="-1.5220633e-15"
-       y="0"
-       width="201.64697"
-       height="111.625"
-       id="page2"
-       margin="0"
-       bleed="0" />
-  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -101,15 +56,10 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-4.9755175,-4.9807292)">
     <g
-       id="g6"
-       inkscape:export-filename="g6.png"
-       inkscape:export-xdpi="145.63"
-       inkscape:export-ydpi="145.63">
+       id="g2">
       <rect
          style="fill:#4356be;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect4520"
@@ -123,7 +73,6 @@
          x="6.5043402"
          y="9.1178732"
          id="text4532"><tspan
-           sodipodi:role="line"
            id="tspan4530"
            x="6.5043402"
            y="9.1178732"
@@ -147,8 +96,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="8.7495346"
              x="90.616119"
-             id="tspan4530-9"
-             sodipodi:role="line">B7</tspan></text>
+             id="tspan4530-9">B7</tspan></text>
       </g>
       <g
          id="g4741"
@@ -169,8 +117,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="14.033333"
              x="11.108827"
-             id="tspan4530-9-6"
-             sodipodi:role="line">R0</tspan></text>
+             id="tspan4530-9-6">R0</tspan></text>
       </g>
       <g
          transform="translate(21.10052,0.5953125)"
@@ -191,8 +138,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="8.7495346"
              x="90.616119"
-             id="tspan4530-9-8"
-             sodipodi:role="line">B6</tspan></text>
+             id="tspan4530-9-8">B6</tspan></text>
       </g>
       <g
          transform="translate(35.652604,0.5953125)"
@@ -213,8 +159,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="8.7495346"
              x="90.616119"
-             id="tspan4530-9-62"
-             sodipodi:role="line">B5</tspan></text>
+             id="tspan4530-9-62">B5</tspan></text>
       </g>
       <g
          transform="translate(50.204687,0.5953125)"
@@ -235,8 +180,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="8.7495346"
              x="90.616119"
-             id="tspan4530-9-3"
-             sodipodi:role="line">B4</tspan></text>
+             id="tspan4530-9-3">B4</tspan></text>
       </g>
       <g
          transform="translate(64.75677,0.5953125)"
@@ -257,8 +201,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="8.7495346"
              x="90.616119"
-             id="tspan4530-9-7"
-             sodipodi:role="line">B3</tspan></text>
+             id="tspan4530-9-7">B3</tspan></text>
       </g>
       <g
          transform="translate(79.308854,0.5953125)"
@@ -279,8 +222,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="8.7495346"
              x="90.616119"
-             id="tspan4530-9-9"
-             sodipodi:role="line">B2</tspan></text>
+             id="tspan4530-9-9">B2</tspan></text>
       </g>
       <g
          transform="translate(93.860937,0.5953125)"
@@ -301,8 +243,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="8.7495346"
              x="90.616119"
-             id="tspan4530-9-0"
-             sodipodi:role="line">B1</tspan></text>
+             id="tspan4530-9-0">B1</tspan></text>
       </g>
       <g
          transform="translate(108.41301,0.5953125)"
@@ -323,8 +264,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="8.7495346"
              x="90.616119"
-             id="tspan4530-9-88"
-             sodipodi:role="line">B0</tspan></text>
+             id="tspan4530-9-88">B0</tspan></text>
       </g>
       <g
          transform="translate(-0.0661471,5.8869792)"
@@ -345,8 +285,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="14.033333"
              x="11.108827"
-             id="tspan4530-9-6-6"
-             sodipodi:role="line">R1</tspan></text>
+             id="tspan4530-9-6-6">R1</tspan></text>
       </g>
       <g
          transform="translate(-0.0661471,11.178646)"
@@ -367,8 +306,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="14.033333"
              x="11.108827"
-             id="tspan4530-9-6-7"
-             sodipodi:role="line">R2</tspan></text>
+             id="tspan4530-9-6-7">R2</tspan></text>
       </g>
       <g
          transform="translate(-0.06614615,16.470313)"
@@ -389,8 +327,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="14.033333"
              x="11.108827"
-             id="tspan4530-9-6-70"
-             sodipodi:role="line">R3</tspan></text>
+             id="tspan4530-9-6-70">R3</tspan></text>
       </g>
       <g
          transform="translate(-0.06614615,21.761979)"
@@ -411,8 +348,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="14.033333"
              x="11.108827"
-             id="tspan4530-9-6-9"
-             sodipodi:role="line">R4</tspan></text>
+             id="tspan4530-9-6-9">R4</tspan></text>
       </g>
       <g
          transform="translate(-0.06614615,27.061514)"
@@ -433,8 +369,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="14.033333"
              x="11.108827"
-             id="tspan4530-9-6-5"
-             sodipodi:role="line">R5</tspan></text>
+             id="tspan4530-9-6-5">R5</tspan></text>
       </g>
       <g
          id="g5053"
@@ -455,8 +390,7 @@
              style="font-size:3.88056px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="14.078806"
              x="18.344444"
-             id="tspan4530-4"
-             sodipodi:role="line">Channel A Tone Period </tspan></text>
+             id="tspan4530-4">Channel A Tone Period (12 bit) </tspan></text>
       </g>
       <g
          transform="translate(-0.0661471,32.345312)"
@@ -477,8 +411,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="14.033333"
              x="11.108827"
-             id="tspan4530-9-6-5-3"
-             sodipodi:role="line">R6</tspan></text>
+             id="tspan4530-9-6-5-3">R6</tspan></text>
       </g>
       <g
          transform="translate(-0.0661452,11.178646)"
@@ -499,8 +432,7 @@
              style="font-size:3.88056px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="14.078806"
              x="18.344444"
-             id="tspan4530-4-2"
-             sodipodi:role="line">Channel B Tone Period </tspan></text>
+             id="tspan4530-4-2">Channel B Tone Period (12 bit) </tspan></text>
       </g>
       <g
          transform="translate(-0.0661452,21.761979)"
@@ -521,8 +453,7 @@
              style="font-size:3.88056px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="14.078806"
              x="18.344444"
-             id="tspan4530-4-9"
-             sodipodi:role="line">Channel C Tone Period </tspan></text>
+             id="tspan4530-4-9">Channel C Tone Period (12 bit) </tspan></text>
       </g>
       <g
          transform="translate(-1.3890618,1.9182292)"
@@ -543,7 +474,6 @@
              x="18.344444"
              y="45.564224"
              id="text4532-4-30-7"><tspan
-               sodipodi:role="line"
                id="tspan4530-4-67-9"
                x="18.344444"
                y="45.564224"
@@ -569,8 +499,7 @@
              style="font-size:3.91936px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="53.720837"
              x="11.108826"
-             id="tspan4530-9-6-5-3-8"
-             sodipodi:role="line">R7</tspan></text>
+             id="tspan4530-9-6-5-3-8">R7</tspan></text>
       </g>
       <rect
          style="fill:#dddddd;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
@@ -585,7 +514,6 @@
          x="18.342375"
          y="51.848076"
          id="text4532-4-5"><tspan
-           sodipodi:role="line"
            x="18.342375"
            y="51.848076"
            style="font-size:3.88056px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -596,11 +524,10 @@
          x="18.342379"
          y="56.610573"
          id="text4532-4-5-1"><tspan
-           sodipodi:role="line"
            x="18.342379"
            y="56.610573"
            style="font-size:3.88056px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           id="tspan5191-7">Enable (bit 0=on, 1=off) </tspan></text>
+           id="tspan5191-7">Enable (0=on, 1=off) </tspan></text>
       <g
          transform="translate(-0.06614329,11.178648)"
          id="g5158-4">
@@ -620,8 +547,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="53.720837"
              x="11.108826"
-             id="tspan4530-9-6-5-3-8-5"
-             sodipodi:role="line">R8</tspan></text>
+             id="tspan4530-9-6-5-3-8-5">R8</tspan></text>
       </g>
       <rect
          style="fill:#dddddd;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
@@ -636,7 +562,6 @@
          x="18.342381"
          y="62.431412"
          id="text4532-4-5-2"><tspan
-           sodipodi:role="line"
            x="18.342381"
            y="62.431412"
            style="font-size:3.88056px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -647,7 +572,6 @@
          x="18.342381"
          y="67.326195"
          id="text4532-4-5-1-1"><tspan
-           sodipodi:role="line"
            x="18.342381"
            y="67.326195"
            style="font-size:3.88056px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -671,8 +595,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="53.720837"
              x="11.108826"
-             id="tspan4530-9-6-5-3-8-5-2"
-             sodipodi:role="line">R9</tspan></text>
+             id="tspan4530-9-6-5-3-8-5-2">R9</tspan></text>
       </g>
       <rect
          style="fill:#dddddd;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
@@ -687,7 +610,6 @@
          x="18.342379"
          y="73.022606"
          id="text4532-4-5-2-2"><tspan
-           sodipodi:role="line"
            x="18.342379"
            y="73.022606"
            style="font-size:3.88056px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -698,7 +620,6 @@
          x="18.342379"
          y="77.917404"
          id="text4532-4-5-1-1-8"><tspan
-           sodipodi:role="line"
            x="18.342379"
            y="77.917404"
            style="font-size:3.88056px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -722,8 +643,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="53.720837"
              x="11.108826"
-             id="tspan4530-9-6-5-3-8-5-4"
-             sodipodi:role="line">R10</tspan></text>
+             id="tspan4530-9-6-5-3-8-5-4">R10</tspan></text>
       </g>
       <rect
          style="fill:#dddddd;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
@@ -738,7 +658,6 @@
          x="18.342379"
          y="83.605934"
          id="text4532-4-5-2-6"><tspan
-           sodipodi:role="line"
            x="18.342379"
            y="83.605934"
            style="font-size:3.88056px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -749,7 +668,6 @@
          x="18.342379"
          y="88.500725"
          id="text4532-4-5-1-1-2"><tspan
-           sodipodi:role="line"
            x="18.342379"
            y="88.500725"
            style="font-size:3.88056px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -773,8 +691,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="14.033333"
              x="11.108827"
-             id="tspan4530-9-6-9-0"
-             sodipodi:role="line">R11</tspan></text>
+             id="tspan4530-9-6-9-0">R11</tspan></text>
       </g>
       <g
          transform="translate(-0.06614938,85.269848)"
@@ -795,8 +712,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="14.033333"
              x="11.108827"
-             id="tspan4530-9-6-5-1"
-             sodipodi:role="line">R12</tspan></text>
+             id="tspan4530-9-6-5-1">R12</tspan></text>
       </g>
       <g
          transform="translate(-0.06614838,79.970313)"
@@ -817,8 +733,7 @@
              style="font-size:3.88056px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="14.078806"
              x="18.344444"
-             id="tspan4530-4-9-2"
-             sodipodi:role="line">Envelope Period </tspan></text>
+             id="tspan4530-4-9-2">Envelope Period (16 bit) </tspan></text>
       </g>
       <g
          transform="translate(-0.0661471,90.553646)"
@@ -839,8 +754,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="14.033333"
              x="11.108827"
-             id="tspan4530-9-6-5-3-4"
-             sodipodi:role="line">R13</tspan></text>
+             id="tspan4530-9-6-5-3-4">R13</tspan></text>
       </g>
       <g
          transform="translate(-1.3890621,60.123)"
@@ -861,7 +775,6 @@
              x="18.344444"
              y="45.630363"
              id="text4532-4-30-7-8"><tspan
-               sodipodi:role="line"
                id="tspan4530-4-67-9-4"
                x="18.344444"
                y="45.630363"
@@ -887,8 +800,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="14.033333"
              x="11.108827"
-             id="tspan4530-9-6-5-3-4-6"
-             sodipodi:role="line">R14</tspan></text>
+             id="tspan4530-9-6-5-3-4-6">R14</tspan></text>
       </g>
       <g
          id="g6505"
@@ -909,8 +821,7 @@
              style="font-size:3.88056px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="109.19652"
              x="18.63308"
-             id="tspan4530-4-67-9-4-6"
-             sodipodi:role="line">I/O Port A Data Store  </tspan></text>
+             id="tspan4530-4-67-9-4-6">I/O Port A Data Store  </tspan></text>
       </g>
       <g
          transform="translate(-0.0661471,101.13698)"
@@ -931,8 +842,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
              y="14.033333"
              x="11.108827"
-             id="tspan4530-9-6-5-3-4-6-8"
-             sodipodi:role="line">R15</tspan></text>
+             id="tspan4530-9-6-5-3-4-6-8">R15</tspan></text>
       </g>
       <g
          transform="translate(-1.3890621,70.709896)"
@@ -953,7 +863,6 @@
              x="18.584976"
              y="45.828804"
              id="text4532-4-30-7-8-3-9"><tspan
-               sodipodi:role="line"
                id="tspan4530-4-67-9-4-6-6"
                x="18.584976"
                y="45.828804"
@@ -980,8 +889,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="35.137234"
              x="148.53287"
-             id="tspan4530-4-0-6-5"
-             sodipodi:role="line">8 bit Fine Tune</tspan></text>
+             id="tspan4530-4-0-6-5">8 bit Fine Tune</tspan></text>
         <rect
            y="36.385418"
            x="89.958336"
@@ -1005,8 +913,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="40.416878"
              x="177.37245"
-             id="tspan4530-4-0-4-5-0"
-             sodipodi:role="line">4 bit Coarse Tune</tspan></text>
+             id="tspan4530-4-0-4-5-0">4 bit Coarse Tune</tspan></text>
       </g>
       <g
          transform="translate(-0.06614838,-9.9880225)"
@@ -1027,8 +934,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="35.137234"
              x="148.53287"
-             id="tspan4530-4-0-6-6"
-             sodipodi:role="line">8 bit Fine Tune</tspan></text>
+             id="tspan4530-4-0-6-6">8 bit Fine Tune</tspan></text>
         <rect
            y="36.385418"
            x="89.958336"
@@ -1052,8 +958,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="40.416878"
              x="177.37245"
-             id="tspan4530-4-0-4-5-3"
-             sodipodi:role="line">4 bit Coarse Tune</tspan></text>
+             id="tspan4530-4-0-4-5-3">4 bit Coarse Tune</tspan></text>
       </g>
       <g
          transform="translate(-0.06614838,0.59531059)"
@@ -1074,8 +979,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="35.137234"
              x="149.03734"
-             id="tspan4530-4-0-6"
-             sodipodi:role="line">8 bit Fine Tune </tspan></text>
+             id="tspan4530-4-0-6">8 bit Fine Tune </tspan></text>
         <rect
            y="36.385418"
            x="89.958336"
@@ -1099,8 +1003,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="40.416878"
              x="177.37245"
-             id="tspan4530-4-0-4-5"
-             sodipodi:role="line">4 bit Coarse Tune</tspan></text>
+             id="tspan4530-4-0-4-5">4 bit Coarse Tune</tspan></text>
       </g>
       <rect
          style="fill:#a0a0a0;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
@@ -1122,7 +1025,6 @@
          x="157.58141"
          y="46.436142"
          id="text4532-4-30-7-6"><tspan
-           sodipodi:role="line"
            id="tspan4530-4-67-9-41"
            x="157.58141"
            y="46.436142"
@@ -1156,7 +1058,6 @@
            x="140.24501"
            y="51.583488"
            id="text4532-4-30-7-6-8"><tspan
-             sodipodi:role="line"
              id="tspan4530-4-67-9-41-0"
              x="140.24501"
              y="51.583488"
@@ -1167,7 +1068,6 @@
            x="184.16685"
            y="51.583492"
            id="text4532-4-30-7-6-83"><tspan
-             sodipodi:role="line"
              id="tspan4530-4-67-9-41-1"
              x="184.16685"
              y="51.583492"
@@ -1178,7 +1078,6 @@
            x="103.65292"
            y="51.59552"
            id="text4532-4-30-7-6-2"><tspan
-             sodipodi:role="line"
              id="tspan4530-4-67-9-41-5"
              x="103.65292"
              y="51.59552"
@@ -1202,8 +1101,7 @@
                style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
                y="56.29179"
                x="96.972198"
-               id="tspan4530-4-67-9-41-5-9"
-               sodipodi:role="line">IO B</tspan></text>
+               id="tspan4530-4-67-9-41-5-9">IO B</tspan></text>
         </g>
         <g
            id="g6318"
@@ -1224,8 +1122,7 @@
                style="font-size:3.91936px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
                y="56.291874"
                x="111.2597"
-               id="tspan4530-4-67-9-41-5-9-9"
-               sodipodi:role="line">IO A</tspan></text>
+               id="tspan4530-4-67-9-41-5-9-9">IO A</tspan></text>
         </g>
         <g
            id="g6313"
@@ -1246,8 +1143,7 @@
                style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
                y="56.412056"
                x="126.20866"
-               id="tspan4530-4-67-9-41-5-9-9-5"
-               sodipodi:role="line">C</tspan></text>
+               id="tspan4530-4-67-9-41-5-9-9-5">C</tspan></text>
         </g>
         <g
            id="g6308"
@@ -1268,8 +1164,7 @@
                style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
                y="56.472"
                x="140.76074"
-               id="tspan4530-4-67-9-41-5-9-9-5-8"
-               sodipodi:role="line">B</tspan></text>
+               id="tspan4530-4-67-9-41-5-9-9-5-8">B</tspan></text>
         </g>
         <g
            id="g6303"
@@ -1290,8 +1185,7 @@
                style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
                y="56.472"
                x="155.04823"
-               id="tspan4530-4-67-9-41-5-9-9-5-7"
-               sodipodi:role="line">A</tspan></text>
+               id="tspan4530-4-67-9-41-5-9-9-5-7">A</tspan></text>
         </g>
         <g
            id="g6298"
@@ -1312,8 +1206,7 @@
                style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
                y="56.41206"
                x="169.99721"
-               id="tspan4530-4-67-9-41-5-9-9-5-1"
-               sodipodi:role="line">C</tspan></text>
+               id="tspan4530-4-67-9-41-5-9-9-5-1">C</tspan></text>
         </g>
         <g
            id="g6293"
@@ -1334,8 +1227,7 @@
                style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
                y="56.472004"
                x="184.54929"
-               id="tspan4530-4-67-9-41-5-9-9-5-8-5"
-               sodipodi:role="line">B</tspan></text>
+               id="tspan4530-4-67-9-41-5-9-9-5-8-5">B</tspan></text>
         </g>
         <g
            id="g6288"
@@ -1356,8 +1248,7 @@
                style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
                y="56.472004"
                x="198.83678"
-               id="tspan4530-4-67-9-41-5-9-9-5-7-3"
-               sodipodi:role="line">A</tspan></text>
+               id="tspan4530-4-67-9-41-5-9-9-5-7-3">A</tspan></text>
         </g>
       </g>
       <g
@@ -1393,8 +1284,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="64.304237"
              x="140.76074"
-             id="tspan4530-4-67-9-41-5-9-9-8"
-             sodipodi:role="line">Env</tspan></text>
+             id="tspan4530-4-67-9-41-5-9-9-8">Env</tspan></text>
         <text
            id="text4532-4-30-7-6-0"
            y="64.217346"
@@ -1404,8 +1294,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="64.217346"
              x="178.05045"
-             id="tspan4530-4-67-9-41-6"
-             sodipodi:role="line">4 bit Amplitude Level</tspan></text>
+             id="tspan4530-4-67-9-41-6">4 bit Amplitude Level</tspan></text>
       </g>
       <g
          transform="translate(-0.06614075,11.178644)"
@@ -1440,8 +1329,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="64.304237"
              x="140.76074"
-             id="tspan4530-4-67-9-41-5-9-9-8-1"
-             sodipodi:role="line">Env</tspan></text>
+             id="tspan4530-4-67-9-41-5-9-9-8-1">Env</tspan></text>
         <text
            id="text4532-4-30-7-6-0-4"
            y="64.217346"
@@ -1451,8 +1339,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="64.217346"
              x="178.05045"
-             id="tspan4530-4-67-9-41-6-0"
-             sodipodi:role="line">4 bit Amplitude Level</tspan></text>
+             id="tspan4530-4-67-9-41-6-0">4 bit Amplitude Level</tspan></text>
       </g>
       <g
          transform="translate(-0.06614075,21.761977)"
@@ -1487,8 +1374,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="64.304237"
              x="140.76074"
-             id="tspan4530-4-67-9-41-5-9-9-8-9"
-             sodipodi:role="line">Env</tspan></text>
+             id="tspan4530-4-67-9-41-5-9-9-8-9">Env</tspan></text>
         <text
            id="text4532-4-30-7-6-0-8"
            y="64.217346"
@@ -1498,11 +1384,17 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="64.217346"
              x="178.05045"
-             id="tspan4530-4-67-9-41-6-5"
-             sodipodi:role="line">4 bit Amplitude Level</tspan></text>
+             id="tspan4530-4-67-9-41-6-5">4 bit Amplitude Level</tspan></text>
       </g>
+      <rect
+         y="95.433853"
+         x="89.915398"
+         height="5.2916679"
+         width="116.41668"
+         id="rect4520-0-69-2-7-7-7"
+         style="fill:#cacaca;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
       <g
-         id="g3">
+         id="g1">
         <rect
            y="89.8974"
            x="89.892189"
@@ -1512,40 +1404,24 @@
            style="fill:#cacaca;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
         <text
            id="text4532-4-8-27-9-8"
-           y="93.94088"
+           y="94.007027"
            x="148.46672"
            style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            xml:space="preserve"><tspan
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-             y="93.94088"
+             y="94.007027"
              x="148.46672"
-             id="tspan4530-4-0-6-5-0"
-             sodipodi:role="line">8 bit Fine Tune</tspan></text>
-        <rect
-           y="95.189064"
-           x="89.892189"
-           height="5.2916684"
-           width="58.208336"
-           id="rect4520-0-69-7-8-3-4"
-           style="fill:#a0a0a0;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
-        <rect
-           y="95.189064"
-           x="148.10052"
-           height="5.2916689"
-           width="58.208336"
-           id="rect4520-0-69-7-5-7-9-0"
-           style="fill:#cacaca;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+             id="tspan4530-4-0-6-5-0">8 bit Fine Tune</tspan></text>
         <text
            id="text4532-4-8-9-4-5-7"
-           y="99.22052"
-           x="177.3063"
+           y="99.381165"
+           x="148.01314"
            style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            xml:space="preserve"><tspan
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-             y="99.22052"
-             x="177.3063"
-             id="tspan4530-4-0-4-5-0-3"
-             sodipodi:role="line">4 bit Coarse Tune</tspan></text>
+             y="99.381165"
+             x="148.01314"
+             id="tspan4530-4-0-4-5-0-3">8 bit Coarse Tune</tspan></text>
       </g>
       <g
          id="g4">
@@ -1568,8 +1444,7 @@
                style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
                y="56.291794"
                x="169.99721"
-               id="tspan4530-4-67-9-41-5-9-9-5-1-5"
-               sodipodi:role="line">Att</tspan></text>
+               id="tspan4530-4-67-9-41-5-9-9-5-1-5">Att</tspan></text>
         </g>
         <g
            transform="translate(-0.06614583,48.216582)"
@@ -1590,8 +1465,7 @@
                style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
                y="56.351738"
                x="184.54929"
-               id="tspan4530-4-67-9-41-5-9-9-5-8-5-2"
-               sodipodi:role="line">Alt</tspan></text>
+               id="tspan4530-4-67-9-41-5-9-9-5-8-5-2">Alt</tspan></text>
         </g>
         <g
            transform="translate(-0.06614583,48.216582)"
@@ -1612,8 +1486,7 @@
                style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
                y="56.351738"
                x="198.83678"
-               id="tspan4530-4-67-9-41-5-9-9-5-7-3-8"
-               sodipodi:role="line">Hold</tspan></text>
+               id="tspan4530-4-67-9-41-5-9-9-5-7-3-8">Hold</tspan></text>
         </g>
         <rect
            y="100.477"
@@ -1641,13 +1514,12 @@
                style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
                y="56.351734"
                x="155.04823"
-               id="tspan4530-4-67-9-41-5-9-9-5-7-1"
-               sodipodi:role="line">Cont</tspan></text>
+               id="tspan4530-4-67-9-41-5-9-9-5-7-1">Cont</tspan></text>
         </g>
       </g>
       <g
          id="g6454"
-         transform="translate(-0.06614583,0.4633855)">
+         transform="translate(-0.06614583,0.59090649)">
         <rect
            y="105.17709"
            x="89.958336"
@@ -1664,8 +1536,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="109.20853"
              x="147.7195"
-             id="tspan4530-4-67-9-41-0-6"
-             sodipodi:role="line">8 bit Parallel I/O</tspan></text>
+             id="tspan4530-4-67-9-41-0-6">8 bit Parallel I/O</tspan></text>
       </g>
       <g
          transform="translate(-0.06614838,5.886969)"
@@ -1686,8 +1557,7 @@
              style="font-size:3.88056px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
              y="109.20853"
              x="147.7195"
-             id="tspan4530-4-67-9-41-0-6-4"
-             sodipodi:role="line">8 bit Parallel I/O</tspan></text>
+             id="tspan4530-4-67-9-41-0-6-4">8 bit Parallel I/O</tspan></text>
       </g>
     </g>
   </g>
