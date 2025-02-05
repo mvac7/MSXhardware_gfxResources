@@ -1,11 +1,11 @@
 # Graphics resources of MSX hardware
 
-by mvac7
+by `mvac7/303bcn`
 
 
 > ## "All these worlds are yours, except Europa. Attempt no landing there. Use them together. Use them in peace."
 
-
+<br/>
 
 ## Author's Notes:
 
@@ -17,7 +17,7 @@ Some have been made using Inkscape software. https://inkscape.org/
 
 My thanks to all those who share knowledge.
 
-
+<br/>
 
 ## Contents list:
 
@@ -26,6 +26,7 @@ My thanks to all those who share knowledge.
 - MSX International character set, horizontal view (HTML and PDF)
 - MSX keyboard matrix - (OpenDocument and PDF) International plus the annexes for the numeric keyboard and Spanish.
 - MSX Keyboard template (v0.4) - You can use it to annotate the keyboard settings of your programs.
+- AY-3-8910 Programmable Sound Generator registers table.
 - TMS9918A Screen 0 VRAM map - Mode 0 (T1) VRAM configuration on MSX computers.
 - TMS9918A Screen 1 VRAM map - Mode 1 (G1) VRAM configuration on MSX computers.
 - TMS9918A Screen 2 VRAM map - Mode 2 (G2) VRAM configuration on MSX computers.
@@ -33,16 +34,17 @@ My thanks to all those who share knowledge.
 - TMS9918A Color Palette
 - V9938 Screen 4 VRAM map - G3 VRAM configuration on MSX computers.
 
-
+<br/>
 
 ## Bibliography:
 
-- The color palette of the TMS9918A has been made using the RGB values indicated in the Sean Young document. -> http://bifi.msxnet.org/msxnet/tech/tms9918a.txt
-- MSX Assembly Page -> http://map.grauw.nl/resources/msxbios.php
-- Portar MSX Tech Doc -> http://nocash.emubase.de/portar.htm
-- MSX Resource Center Wiki -> https://www.msx.org/wiki/
-- V9938 MSX-VIDEO Technical Data Book -> http://map.grauw.nl/resources/video/v9938/v9938.xhtml
-
+- [MSX Assembly Page](http://map.grauw.nl/resources/msxbios.php)
+- MSX Resource Center [Wiki](https://www.msx.org/wiki/)
+- [MSX2 Technical Handbook](https://konamiman.github.io/MSX2-Technical-Handbook/)
+- [The MSX Red Book](https://github.com/gseidler/The-MSX-Red-Book/blob/master/the_msx_red_book.md)
+- [Portar MSX Tech Doc](http://nocash.emubase.de/portar.htm)
+- V9938 MSX-VIDEO [Technical Data Book](http://map.grauw.nl/resources/video/v9938/v9938.xhtml)
+- The color palette of the TMS9918A has been made using the RGB values indicated in the Sean Young document [(tms9918a.txt)](http://bifi.msxnet.org/msxnet/tech/tms9918a.txt)
 
 ---
 
